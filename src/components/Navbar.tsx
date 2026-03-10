@@ -26,7 +26,7 @@ export default function Navbar() {
                             <img src="/website-logomark-krc.webp" alt="KRC Woollens Logo" className="h-10 md:h-12 w-auto" />
                             <span className="text-ivory/30 text-2xl font-light select-none">|</span>
                             <span className="font-heading text-2xl md:text-3xl font-bold text-ivory tracking-wider">
-                                KRC Woollens<span className="text-gold">.</span>
+                                KRC Woollens
                             </span>
                         </Link>
 
